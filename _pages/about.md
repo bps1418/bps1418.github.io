@@ -1,9 +1,7 @@
 ---
 layout: single
-title: Bio
+title: About Me
 permalink: /about/
 ---
-
-<h1>About Me</h1>
 
 {% include about.html %}
