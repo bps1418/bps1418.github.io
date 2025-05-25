@@ -1,8 +1,23 @@
----
-permalink: /about/
-title: "About"
----
+name: Bhanu Pratap Singh
+title: AI-Driven Technologist
+location: United States
+email: bhanu.ai.investor@gmail.com
+linkedin: https://www.linkedin.com/in/bhanu82/
+github: https://github.com/YOUR_USERNAME
+summary: >
+  Software Engineer | AI Strategist | Fintech Builder. Experienced in Java, Python, Angular, and modern AI/ML tools including LangChain, OpenAI, Mistral, and Hugging Face. Currently building an agentic AI platform for stock market analysis and real-time sentiment-driven trading insights.
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+skills:
+  - Java / Spring Boot / C#
+  - Angular / React / FastAPI
+  - AI/ML: OpenAI, LangChain, Ollama, FinBERT, Mistral
+  - Cloud: AWS, Docker, PostgreSQL
+  - Domains: Stock Market AI, Fraud Detection, Healthcare ML
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+projects:
+  - title: Agentic Stock AI System
+    description: Real-time market analysis platform combining LLMs, LangGraph, and financial indicators.
+  - title: AI Investment Blog
+    description: Jekyll + OpenAI/Gemini-generated content to explain market moves.
+  - title: Clinical Shock Prediction
+    description: Predictive model using MIMIC-III data for ICU risk management.
