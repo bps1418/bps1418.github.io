@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bio
-permalink: /bio/
+permalink: /about/
 ---
 
 <h1>About Me</h1>
