@@ -2,12 +2,10 @@
 layout: single
 title: About Me
 permalink: /about/
----
----
 name: Bhanu Pratap Singh
 title: AI-Driven Technologist
 location: United States
-email: bhanu.ai.investor@gmail.com
+email: hi.bhanu@gmail.com
 linkedin: https://www.linkedin.com/in/bhanu82/
 github: https://github.com/YOUR_USERNAME
 ---
