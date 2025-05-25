@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Bhanu's Blog"
-email: bps1418.usa@gmail.com
+title: "Bhanu Pratap Singh"
+email: hi.bhanu1418@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I am Bhanu, I am a Developer cum architect with 18+ years of experience
 twitter_username: username
@@ -68,7 +68,7 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://bps1418.github.com/"
+      url: "https://github.com/bps1418"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
@@ -80,7 +80,7 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://bps1418.github.com/"
+      url: "https://github.com/bps1418"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
