@@ -1,13 +1,19 @@
-# My Blog
+# Blogs Site for Bhanu Pratap
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+summary: >
+  Software Engineer | AI Strategist | Fintech Builder. Experienced in Java, Python, Angular, and modern AI/ML tools including LangChain, OpenAI, Mistral, and Hugging Face. Currently building an agentic AI platform for stock market analysis and real-time sentiment-driven trading insights.
 
----
+skills:
+  - Java / Spring Boot / C#
+  - Angular / React / FastAPI
+  - AI/ML: OpenAI, LangChain, Ollama, FinBERT, Mistral
+  - Cloud: AWS, Docker, PostgreSQL
+  - Domains: Stock Market AI, Fraud Detection, Healthcare ML
 
-## Troubleshooting
-
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+projects:
+  - title: Agentic Stock AI System
+    description: Real-time market analysis platform combining LLMs, LangGraph, and financial indicators.
+  - title: AI Investment Blog
+    description: Jekyll + OpenAI/Gemini-generated content to explain market moves.
+  - title: Clinical Shock Prediction
+    description: Predictive model using MIMIC-III data for ICU risk management.
