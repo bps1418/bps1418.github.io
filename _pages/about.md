@@ -1,1 +1,1 @@
-{% include_relative about.html %}
+{% include_relative bio.html %}
