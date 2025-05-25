@@ -1,23 +1,19 @@
-name: Bhanu Pratap Singh
-title: AI-Driven Technologist
-location: United States
-email: bhanu.ai.investor@gmail.com
-linkedin: https://www.linkedin.com/in/bhanu82/
-github: https://github.com/bps1418
-summary: >
-  Software Engineer | AI Strategist | Fintech Builder. Experienced in Java, Python, Angular, and modern AI/ML tools including LangChain, OpenAI, Mistral, and Hugging Face. Currently building an agentic AI platform for stock market analysis and real-time sentiment-driven trading insights.
+<section class="about">
+  <h2>👨‍💻 Bhanu Pratap Singh</h2>
+  <p><strong>AI-Driven Technologist</strong> | Software Engineer | Fintech Innovator</p>
+  <p>Experienced in building full-stack systems using Java, Spring Boot, C#, Angular, and AI/ML pipelines with OpenAI, LangChain, and FinBERT. Passionate about applying AI to finance, healthcare, and real-time sentiment-driven trading.</p>
 
-skills:
-  - Java / Spring Boot / C#
-  - Angular / React / FastAPI
-  - AI/ML: OpenAI, LangChain, Ollama, FinBERT, Mistral
-  - Cloud: AWS, Docker, PostgreSQL
-  - Domains: Stock Market AI, Fraud Detection, Healthcare ML
+  <h3>🧠 Current Work</h3>
+  <ul>
+    <li>Agentic Stock AI using LangGraph + market signals</li>
+    <li>Jekyll blog with AI-powered auto publishing</li>
+    <li>Clinical shock prediction using MIMIC-III</li>
+  </ul>
 
-projects:
-  - title: Agentic Stock AI System
-    description: Real-time market analysis platform combining LLMs, LangGraph, and financial indicators.
-  - title: AI Investment Blog
-    description: Jekyll + OpenAI/Gemini-generated content to explain market moves.
-  - title: Clinical Shock Prediction
-    description: Predictive model using MIMIC-III data for ICU risk management.
+  <h3>📫 Connect</h3>
+  <ul>
+    <li><a href="https://www.linkedin.com/in/bhanu82/" target="_blank">LinkedIn</a></li>
+    <li><a href="mailto:bhanu.ai.investor@gmail.com">bhanu.ai.investor@gmail.com</a></li>
+    <li><a href="https://github.com/YOUR_USERNAME">GitHub</a></li>
+  </ul>
+</section>
